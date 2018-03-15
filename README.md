@@ -1,7 +1,8 @@
 # newsapp
 
 > newsapp
-
+线上地址：http://123.207.114.48:89/
+ 
 ## Build Setup
 
 ``` bash
@@ -19,3 +20,6 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+
